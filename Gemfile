@@ -24,6 +24,10 @@ gem "rake"
 # https://github.com/sparklemotion/sqlite3-ruby
 gem "sqlite3", "~> 1.4"
 
+gem 'psych', '3.3.2'
+
+gem "puma"
+
 # Require all files in a folder
 # https://github.com/jarmo/require_all
 gem "require_all"
